@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@hexlet/co": "^0.1.10"
+  },
+  "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  }
+}
