@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "@hexlet/co": "^0.1.10"
+    "@hexlet/co": "^0.1.10",
+    "readline-sync": "^1.4.10"
   },
   "type": "module",
   "bin": {
