@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "20": "^3.1.9",
     "@hexlet/co": "^0.1.10",
+    "node": "^18.20.2",
     "readline-sync": "^1.4.10"
   },
   "type": "module",
@@ -11,7 +13,6 @@
   "description": "[![Actions Status](https://github.com/pavel203/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/pavel203/frontend-project-44/actions)",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,5 +25,12 @@
   "bugs": {
     "url": "https://github.com/pavel203/frontend-project-44/issues"
   },
-  "homepage": "https://github.com/pavel203/frontend-project-44#readme"
+  "homepage": "https://github.com/pavel203/frontend-project-44#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "globals": "^15.0.0"
+  }
 }
