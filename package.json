@@ -2,12 +2,13 @@
   "dependencies": {
     "20": "^3.1.9",
     "@hexlet/co": "^0.1.10",
-    "node": "^18.20.2",
+    "node": "20.12.2",
     "readline-sync": "^1.4.10"
   },
   "type": "module",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "name": "@hexlect/code",
   "description": "[![Actions Status](https://github.com/pavel203/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/pavel203/frontend-project-44/actions)",
